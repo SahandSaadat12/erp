@@ -1,0 +1,5 @@
+ERP DEMO DOCUMENT — SYNTHETIC TEST DATA
+Document number: DEMO-DOC-047
+Project ID: 87
+Document type: Invoice
+This file is fictional and is not a real contract, invoice, or report.

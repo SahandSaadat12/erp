@@ -1,0 +1,11 @@
+# NEVER commit signing material or customer data
+keys/
+*.pem
+*.key
+*.p8
+*.p12
+*.pfx
+data/
+out/
+__pycache__/
+*.pyc

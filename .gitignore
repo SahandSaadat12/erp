@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Databases and backups
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+backups/
+demo_seed_backups/
+
+# Logs and local state
+*.log
+license_state.json
+settings.json
+
+# Build outputs
+build/
+dist/
+*.spec.bak
+
+# Local documents and generated files
+documents/
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# Secrets and private keys
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Editors
+.vscode/
+.idea/
+
+# All local database files and metadata
+*.db*
+*.sqlite*
+*.sqlite3*
+
+# Local configuration and license state
+settings.json
+license_state.json
+
+# Archives and temporary exports
+*.bak
+*.backup
+
+# Review archives before publishing
+*.zip
+*.7z
+*.rar
+
+# License files
+*.lic
+ERP_Project_Audit_Fixes/

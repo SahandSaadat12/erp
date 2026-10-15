@@ -1,0 +1,8 @@
+customtkinter==5.2.2
+Pillow==11.0.0
+numpy==2.0.0
+persiantools==6.2.0
+xlsxwriter==3.2.9    # Roadmap -> Excel export
+# only needed to build the .exe
+# pyinstaller>=6.0
+cryptography==50.0.2 # licensing: Ed25519 signature verification
